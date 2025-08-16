@@ -3,5 +3,5 @@ Edad: 19
 Programa: Tecnología desarrollo de software
 Hobitt: Videojuegos
 tienes mascotas: si , un perro
-ESTOY INTERESADO EN UNA APP MOVIL
+ESTOY INTERESADO En un video juego
 SEMESTRE ACTUAL:CUARTO
